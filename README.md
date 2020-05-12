@@ -1,6 +1,6 @@
-## YouTube_Automation-puppeteer
+# YouTube_Automation-puppeteer
 
-# Watch demo videos for better understanding
+## Watch demo videos for better understanding
 
 -> upload multiple videos in one go on youtube
 (prerequisite - your channel should be setup)
