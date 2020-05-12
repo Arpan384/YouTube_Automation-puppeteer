@@ -7,4 +7,4 @@
 
 -> scrape comments for any youtube video
 
--> download any youtube video with link (using 3rd party website => migght not be always reliable)
+-> download any youtube video with link (using 3rd party website => might not be always reliable)
